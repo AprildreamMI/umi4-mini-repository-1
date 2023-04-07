@@ -9,11 +9,14 @@
     "start": "npm run dev"
   },
   "dependencies": {
+    "antd": "^5.4.0",
     "umi": "^4.0.64"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "@umijs/lint": "^4.0.64",
+    "@umijs/plugins": "^4.0.64",
     "typescript": "^5.0.0"
   }
 }
